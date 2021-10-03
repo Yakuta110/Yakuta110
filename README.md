@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Yakuta
 - 👀 I’m a Programming enthusiast
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python and C++
 
 <!---
 - 💞️ I’m looking to collaborate on ...
